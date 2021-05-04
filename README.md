@@ -1,4 +1,4 @@
-## Project developed durint the Spring React Week
+# Project developed durint the Spring React Week
 
-# Frontend -> ReactJS
-# Backend -> Spring Boot
+## Frontend -> ReactJS
+## Backend -> Spring Boot
