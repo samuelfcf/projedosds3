@@ -1,4 +1,8 @@
-# Project developed durint the Spring React Week
+# Project developed during the Spring React Week
 
-## Frontend -> ReactJS
-## Backend -> Spring Boot
+### Frontend com ReactJS
+### Backend com Spring Boot
+
+<h4 align="center">
+	🚧 Em construção...  🚧
+</h4>
